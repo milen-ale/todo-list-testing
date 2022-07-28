@@ -1,5 +1,5 @@
 import {
-  Store, displayTodo, createTodo, editTodos 
+  Store, displayTodo, createTodo, editTodos,
 } from './crudOps.js';
 import { updateStatus, clearCompleted } from './status.js';
 import './styel.css';
