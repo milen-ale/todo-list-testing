@@ -154,6 +154,10 @@ h1 {
 }
 
 .delete {
+  color: #b6b6b8;
+  opacity: 0.7;
+  cursor: pointer;
+  margin-right: 10px;
   z-index: 5;
 }
 
@@ -167,13 +171,6 @@ h1 {
 
 .list-item:focus-within .icon-move {
   display: none;
-}
-
-.delete {
-  color: #b6b6b8;
-  opacity: 0.7;
-  cursor: pointer;
-  margin-right: 10px;
 }
 
 .clear {
