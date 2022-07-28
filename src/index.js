@@ -1,4 +1,4 @@
-import {\n Store, displayTodo, createTodo, editTodos \n} from './crudOps.js';
+import { \nStore, displayTodo, createTodo, editTodos \n} from './crudOps.js';
 import { updateStatus, clearCompleted } from './status.js';
 import './styel.css';
 
