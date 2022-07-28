@@ -4,10 +4,10 @@ This is a simple ToDO List website. on complition the website will enable the us
 
 # Built With
 
-HTML
-CSS
-Javascript
-WebPack
+- HTML
+- CSS
+- Javascript
+- WebPack
 
 # Getting Started
 
