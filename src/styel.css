@@ -32,8 +32,7 @@ button {
 
 .container {
   background-color: #fff;
-  filter:
-    drop-shadow(0 10px 8px rgb(0 0 0 / 0.04))
+  filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04))
     drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
 }
 
@@ -145,7 +144,7 @@ h1 {
   height: 100%;
   border: none;
   outline: none;
-  padding: 5px 0;
+  padding: 6px 0;
   font-size: 14px;
 }
 
