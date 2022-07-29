@@ -26,7 +26,7 @@ To successfully utilize this project first of all you need to clone or download 
 
 ## Live Demo
 
-[Live demo link](https://milen-ale.github.io/todolist/)
+[Live demo link](https://milen-ale.github.io/todo-list-testing/)
 
 # Author
 
